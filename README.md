@@ -30,6 +30,10 @@ This is a project that was completed in class. It was designed to gain experienc
 ## Installation
 
 To install this application, clone this repo, then type
+~~~
+npm i
+~~~ 
+in the command line in the root directory to install all dependencies. Then it can be opened in the browser using a local server.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
